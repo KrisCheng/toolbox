@@ -15,7 +15,7 @@ Our minds are state machines, we can only repeat several steps without any toolb
 this project is not:
 
 * copycats of tutorial, docs, not something I can get easily from Google of Fxxking manuals
-* interview guide, I tend to investigate those topics that really help my daily works
+* interview guide, I tend to investigate those topics that really help my daily works 
 * LeetCode, which I can practice online, not here
 
 How to add:
